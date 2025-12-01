@@ -1,0 +1,36 @@
+{
+  "name": "cyber-guardian",
+  "version": "1.0.0",
+  "description": "AI-Powered WhatsApp Bot with Menu System by KING_BLESS XMD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "setup": "node setup.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "ai-chatbot",
+    "cyber-guardian",
+    "king-bless-xmd"
+  ],
+  "author": "KING_BLESS XMD",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "openai": "^4.28.0",
+    "axios": "^1.6.0",
+    "moment-timezone": "^0.5.43",
+    "pdfkit": "^0.14.0",
+    "sharp": "^0.33.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-cron": "^3.0.3",
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
