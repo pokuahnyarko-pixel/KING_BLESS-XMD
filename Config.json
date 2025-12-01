@@ -1,0 +1,32 @@
+{
+    "bot_name": "CYBER-GUARDIAN",
+    "developer": "KING_BLESS XMD",
+    "version": "2.0.0",
+    "prefix": ".",
+    "owner_number": "233XXXXXXXXX",
+    "github": "https://github.com/KING_BLESS_XMD",
+    
+    "openai_key": "sk-your-openai-api-key-here",
+    
+    "messages": {
+        "welcome": "🤖 *CYBER-GUARDIAN Activated*\n\nHello! I'm CYBER-GUARDIAN, your AI-powered WhatsApp assistant.\nDeveloped by: *KING_BLESS XMD*\n\nType *.menu* to see all commands",
+        "error": "❌ An error occurred. Please try again later.",
+        "wait": "⏳ Please wait...",
+        "success": "✅ Operation successful!"
+    },
+    
+    "features": {
+        "ai_enabled": true,
+        "auto_reply": true,
+        "downloaders": true,
+        "stickers": true,
+        "games": true,
+        "nsfw": false
+    },
+    
+    "apis": {
+        "weather": "your-weather-api-key",
+        "youtube": "your-youtube-api-key",
+        "news": "your-news-api-key"
+    }
+}
